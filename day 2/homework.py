@@ -1,0 +1,10 @@
+y = "studying"
+X = "in"
+h = "goa"
+k = "will"
+l = "be"
+a = "very"
+r = "useful"
+o = "for"
+t = "you"
+print (  y + " " +  X + " " + h + " " + k + " " i +  a  + " " +  r  + " " +  o  +  " " +  t)
