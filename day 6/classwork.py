@@ -1,0 +1,5 @@
+dog= input("enter your dog name: ")
+print(type(dog)) 
+print(dog)
+birth= int(input("your birth year:"))
+print(2026-birth)
